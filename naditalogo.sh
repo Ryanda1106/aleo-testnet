@@ -1,5 +1,3 @@
-echo -e '\e[40m\e[92m'
-echo -e '                                                   '
 echo -e ' 888b    888               888 d8b 888             '
 echo -e ' 8888b   888               888 Y8P 888             '
 echo -e ' 88888b  888               888     888             '
